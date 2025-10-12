@@ -1,0 +1,1 @@
+bonus_salary = (salary * 0.1) + (salary * 0.02)

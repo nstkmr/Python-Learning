@@ -1,0 +1,8 @@
+n = int(input("Enter your number: "))
+print("The reverse number is: ")
+
+while (n>0):
+    r = n % 10
+    print(r,end="")
+    n = n // 10
+
